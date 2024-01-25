@@ -1,1 +1,1 @@
-# This is a repository for the scripts basics
+This is a repository for the scripts basics
